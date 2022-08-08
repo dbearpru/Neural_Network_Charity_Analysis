@@ -4,11 +4,11 @@
 # Purpose
 The purpose is to use Neural Networks to determine if charities would succeed with funds from Alphabet Soup.
 
-Data Preprocessing
-What variable(s) are considered the target(s) for your model?
+# Data Preprocessing
+*What variable(s) are considered the target(s) for your model?
 Checking to see if the target is marked as successful in the DataFrame, indicating that it has been successfully funded by AlphabetSoup.
 
-What variable(s) are considered to be the features for your model?
+*What variable(s) are considered to be the features for your model?
 The IS_SUCCESSFUL column is the feature chosen for this dataset.
 
 What variable(s) are neither targets nor features, and should be removed from the input data?
